@@ -1,0 +1,7 @@
+My favorite JS  function
+
+My favorite JS function is `console.log`. It's so nice to get some output out of my program.
+
+Overall, I give it 5 stars:
+
+*
